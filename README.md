@@ -1,1 +1,1 @@
-# solid_api_node_ts
+Solid API with Node and TS
